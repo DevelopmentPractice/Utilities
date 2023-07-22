@@ -1,0 +1,18 @@
+ProjectMongoRepository	-->	https://www.baeldung.com/spring-data-mongodb-tutorial, 								https://www.baeldung.com/spring-data-mongodb-connection
+
+ProjectMongoTemplate	-->	https://www.baeldung.com/spring-data-mongodb-tutorial, 								https://www.baeldung.com/spring-data-mongodb-connection
+
+ProjectRedisDb		-->	https://www.baeldung.com/spring-data-redis-tutorial,
+				https://spring.io/projects/spring-data-redis#overview
+
+
+
+Web Service Spring WS
+
+Server
+https://spring.io/guides/gs/producing-web-service/
+https://github.com/spring-guides/gs-producing-web-service
+
+Client
+https://spring.io/guides/gs/consuming-web-service/
+https://github.com/spring-guides/gs-consuming-web-service

@@ -1,0 +1,24 @@
+https://www.youtube.com/watch?v=MUnMWlMHEEI
+https://github.com/joedayz/soap-ws-demos
+https://github.com/joedayz/soap-ws-demos/tree/main/servidorws/src/main/java/pe/joedayz/servidorws
+https://github.com/joedayz/soap-ws-demos/blob/main/clientews/src/main/java/pe/joedayz/clientews/ClientewsApplication.java
+https://github.com/joedayz/soap-ws-demos/tree/main/servidorws/src/main
+https://www.youtube.com/@joedayzperu
+
+
+Web Service Spring WS
+
+Server
+https://spring.io/guides/gs/producing-web-service/
+https://github.com/spring-guides/gs-producing-web-service
+
+Client
+https://spring.io/guides/gs/consuming-web-service/
+https://github.com/spring-guides/gs-consuming-web-service
+
+
+Crear Archivo XDS
+https://www.youtube.com/watch?v=WgPK-UzeTZs
+https://www.adictosaltrabajo.com/2009/03/15/generar-xsd-from-xml/
+https://www.adictosaltrabajo.com/2009/03/15/springwsexample-1/
+https://www.adictosaltrabajo.com/2009/03/15/generar-xsd-from-xml/
